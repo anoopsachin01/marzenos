@@ -315,9 +315,9 @@ export default function ComingSoonPage() {
         {/* Social Media Links */}
         <div className="flex space-x-6 mb-8">
           {[
-            { icon: Instagram, href: "#" },
+            { icon: Instagram, href: "https://www.instagram.com/houseofmarzenos/" },
             { icon: Facebook, href: "#" },
-            { icon: Linkedin, href: "#" },
+            { icon: Linkedin, href: "" },
           ].map((social, index) => (
             <a
               key={index}
