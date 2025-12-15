@@ -317,7 +317,7 @@ export default function ComingSoonPage() {
           {[
             { icon: Instagram, href: "https://www.instagram.com/houseofmarzenos/" },
             { icon: Facebook, href: "#" },
-            { icon: Linkedin, href: "" },
+            { icon: Linkedin, href: "https://www.linkedin.com/company/105049600/" },
           ].map((social, index) => (
             <a
               key={index}
