@@ -25,7 +25,7 @@ export default function ComingSoonPage() {
     // const launchDate = new Date(2025, 7, 15, 12, 0, 0) // April 15, 2025, 12:00 PM
     
     // Alternative: Set launch date as a string (easier to read)
-    const launchDate = new Date("2025-07-15T12:00:00")
+    const launchDate = new Date("2026-02-15T12:00:00")
 
     const timer = setInterval(() => {
       const now = new Date().getTime()
